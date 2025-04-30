@@ -2,14 +2,14 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 
-An AI system that converts text descriptions of shapes into vectors using **GloVe 6B 100D** embeddings and allows users to visualize the shape, saving the vector data to a JSON file. The shapes currently supported are **circle**, **square**, and **triangle**, and more can be added.
+An AI system that converts text descriptions of shapes into vectors using **GloVe 6B 100D** embeddings and allows users to visualize the shape, saving the vector data to a JSON file. The shapes currently supported are **circle**, **square**,**triangle**, can be turned into vectors and plotted. **letter A**, **letter B** and **letter C** can be plotted.
 
 Developed as a proof-of-concept by Sen Dewael and Marnick Michielsen from Thomas More University (Geel, Belgium) in collaboration with KMITL (Bangkok, Thailand).
 
 ## Project Status 🚧
 
 - ✅ **Text2Vec**: Convert shape names into GloVe embeddings and visualize shapes
-- ✅ Shape plotting functionality (circle, square, triangle)
+- ✅ Shape plotting functionality (circle, square, triangle, letter A, letter B and letter C)
 - ⚙️ **Future work**: Add more shapes and functionalities
 
 > **Note:** This project is a proof-of-concept (POC). Some models or features may be incomplete or experimental.
