@@ -50,7 +50,7 @@ root/
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/drawing-finisher.git
+git clone https://github.com/sendewael/text2vec.git
 cd drawing-finisher
 ```
 
